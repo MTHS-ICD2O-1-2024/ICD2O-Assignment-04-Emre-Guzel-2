@@ -16,10 +16,8 @@ function calculateFood() {
   // setting the spice level prices
   if (spiceLevel == 5) {
     spiceLevelExtra = 3.00
-  } else if (spiceLevel == 4) {
+  } else if (spiceLevel == 4 || spiceLevel == 3) {
     spiceLevelExtra = 2.00
-  } else if (spiceLevel == 3) {
-    spiceLevelExtra = 1.00
   } else if (spiceLevel == 2 || spiceLevel == 1) {
     spiceLevelExtra = 0.50
   }
