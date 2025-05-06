@@ -38,11 +38,11 @@ function calculateFood() {
   }
 
   // setting the sizes
-  if (sizeLarge === true) {
+  if (sizeLarge == true) {
     sizePrice = 7.99
-  } else if (sizeMedium === true) {
+  } else if (sizeMedium == true) {
     sizePrice = 5.99
-  } else if (sizeSmall === true) {
+  } else if (sizeSmall == true) {
     sizePrice = 2.99
   }
 
