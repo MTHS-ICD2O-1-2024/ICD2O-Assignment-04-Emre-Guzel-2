@@ -1,4 +1,10 @@
+// Copyright (c) 2020 Mr. Coxall All rights reserved
+//
+// Created by: Emre Guzel
+// Created on: May 03 2025
+// This file contains the JS functions for index.html
 "use strict"
+
 // Setting the function 
 function calculateFood() {
   // Setting the variables
